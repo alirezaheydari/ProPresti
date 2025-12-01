@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="ProPresti.AppHost/ProPresti.AppHost.csproj" />
+  <Project Path="ProPresti.ServiceDefaults/ProPresti.ServiceDefaults.csproj" />
+  <Project Path="ProPresti/ProPresti.csproj" />
+  <Project Path="ProPrestiApplication/ProPrestiApplication.csproj" />
+  <Project Path="ProPrestiCore/ProPrestiCore.csproj" />
+  <Project Path="ProPrestiInfrastructure/ProPrestiInfrastructure.csproj" />
+</Solution>
